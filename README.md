@@ -14,11 +14,41 @@ JG-endOS, RJulyane, glutmother and laisecamarao
 
 ---
 
-### 🎮 Symbols & Actions
-
-![commands](https://github.com/JG-endOS/dungeon_crawler/blob/main/sy%26acs.png)
+### 🦾 Features
+...
 
 ---
 
-### 🤖 AI DISCLAIMER
+### 🗄️ Main classes
+...
+
+---
+
+### 📊 Business rule's
+...
+
+---
+
+### 💻 Technologies used
+...
+
+---
+
+### ⚙️ Configuration instructions
+...
+
+---
+
+
+### ▶️ Execution instructions
+...
+
+---
+
+### 📇 Examples of use
+...
+
+---
+
+### 🤖 AI Disclaimer
 ...
