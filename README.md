@@ -1,4 +1,4 @@
-# PokeAPI
+# Ticket Sale Project
 
 ![poke_img](https://github.com/JG-endOS/dungeon_crawler/blob/main/ascii_game.png)
 
